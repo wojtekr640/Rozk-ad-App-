@@ -5,7 +5,7 @@ package.domain = org.twojeimie
 source.dir = .
 source.exts = py,png,jpg,kv,atlas
 version = 1.0
-requirements = python3,kivy
+requirements = python3==3.10.11,kivy
 orientation = portrait
 fullscreen = 0
 android.permissions = WRITE_EXTERNAL_STORAGE
